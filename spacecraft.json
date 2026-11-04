@@ -1,0 +1,26 @@
+[
+    {
+        "id": 101,
+        "name": "Voyager",
+        "fuel_capacity": 180,
+        "payload_capacity": 200,
+        "max_gravity": 15,
+        "type": "Ion Drive"
+    },
+    {
+        "id": 102,
+        "name": "Nebula",
+        "fuel_capacity": 280,
+        "payload_capacity": 800,
+        "max_gravity": 30,
+        "type": "Nuclear Thermal"
+    },
+    {
+        "id": 103,
+        "name": "Vigor",
+        "fuel_capacity": 350,
+        "payload_capacity": 500,
+        "max_gravity": 20,
+        "type": "Chemical Rocket"
+    }
+]

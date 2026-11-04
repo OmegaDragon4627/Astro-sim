@@ -1,0 +1,13 @@
+[
+    {
+        "mission_id": 1001,
+        "spacecraft_id": 102,
+        "spacecraft_name": "Nebula",
+        "spacecraft_type": "Nuclear Thermal",
+        "planet": "Mars",
+        "payload": 103.0,
+        "fuel_required": 11.132781069599998,
+        "travel_time": 19.575,
+        "status": "SUCCESS"
+    }
+]
